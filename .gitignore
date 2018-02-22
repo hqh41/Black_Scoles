@@ -1,0 +1,6 @@
+*.out
+.DS_Store
+.idea/
+QinghuaHOU_XuehuiJIA_projet_bs.zip
+cmake-build-debug/
+
